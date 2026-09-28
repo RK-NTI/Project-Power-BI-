@@ -1,6 +1,11 @@
 # Project (Power-BI)
 # 📊Super Store Sales Analysis 
+Developed an interactive Power BI dashboard to analyze Super Store sales performance.
 A comprehensive, interactive three-tab business intelligence dashboard built to track, analyze, and optimize retail performance across sales, profitability, and customer demographics.
+Implemented slicers and filters for dynamic report interaction.
+Used Power Query for data transformation and DAX measures for KPI calculations.
+Delivered actionable business insights to support sales performance analysis and decision-making.
+
 
 # 🔍 What I Analyzed & Learned to Build:
 • **Executive KPI Cards:** Designed high-level metrics for Total Sales, Total Profit, Quantity Sold, and Profit Margins to give decision-makers an instant snapshot of health at a single glance.
