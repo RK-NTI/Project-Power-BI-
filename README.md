@@ -19,7 +19,9 @@ Delivered actionable business insights to support sales performance analysis and
 • **Dynamic Interactive Slicers:** Implemented filters for Year, Region, Sub-Category, and Category, allowing users to cut the data instantly and answer hyper-specific business questions on the fly.
 
 # 🛠️ Tech Stack & Skills Demonstrated
-Data Visualization: Power BI / Tableau (DAX expressions, custom tooltips, interactive filtering)
+**Data Visualization:** Power BI / Tableau (DAX expressions, custom tooltips, interactive filtering)
+
+**Data Modeling:** Star schema, relationships, and calculated metrics
 
 
 
