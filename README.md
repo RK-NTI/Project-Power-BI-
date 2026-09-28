@@ -23,6 +23,8 @@ Delivered actionable business insights to support sales performance analysis and
 
 **Data Modeling:** Star schema, relationships, and calculated metrics
 
+**Business Acumen:** Cohort analysis, YoY growth calculations, and margin optimization tracking
+
 
 
 
