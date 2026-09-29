@@ -25,6 +25,17 @@ Delivered actionable business insights to support sales performance analysis and
 
 **Business Acumen:** Cohort analysis, YoY growth calculations, and margin optimization tracking
 
+# 🔑 Key Insights
+**Sales Growth:** Achieved $733.22K in current year sales, which is a 20.4% jump compared to last year.
+
+**Regular everyday buyers spend the most:** Everyday consumers are the biggest buyers, making up 45% of all sales.
+
+**Tech brings in the most cash:** Technology products are highly profitable, bringing in an 18.5% profit margin.
+
+**Furniture is losing money:** Furniture is struggling badly, making a tiny profit margin of just 1.4%.
+
+**Best states for business:** California and New York make more profit for the store than any other states.
+
 
 
 
