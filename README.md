@@ -36,7 +36,9 @@ Delivered actionable business insights to support sales performance analysis and
 
 **Best states for business:** California and New York make more profit for the store than any other states.
 
-<img width="1337" height="751" alt="Superstore_Sales" src="https://github.com/user-attachments/assets/8c35a550-852e-4157-9ec0-f4f92273c7c6" />
+
+
+
 
 
 
