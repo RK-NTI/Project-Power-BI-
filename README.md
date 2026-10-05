@@ -39,6 +39,9 @@ Delivered actionable business insights to support sales performance analysis and
 
 <img width="1337" height="747" alt="Superstore_Sales_Analysis" src="https://github.com/user-attachments/assets/8d7fb82e-1798-4a73-a6ff-fc9f3b24c093" />
 
+<img width="1337" height="751" alt="Superstore_Sales_Profit" src="https://github.com/user-attachments/assets/7ce073c2-662e-4bfe-a067-82e51093af95" /> 
+
+
 
 
 
