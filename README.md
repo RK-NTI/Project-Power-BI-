@@ -6,6 +6,7 @@ Implemented slicers and filters for dynamic report interaction.
 Used Power Query for data transformation and DAX measures for KPI calculations.
 Delivered actionable business insights to support sales performance analysis and decision-making.
 
+# Project Purpose
 
 # 🔍 What I Analyzed & Learned to Build:
 • **Executive KPI Cards:** Designed high-level metrics for Total Sales, Total Profit, Quantity Sold, and Profit Margins to give decision-makers an instant snapshot of health at a single glance.
