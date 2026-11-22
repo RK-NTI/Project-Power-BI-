@@ -36,16 +36,14 @@ Delivered actionable business insights to support sales performance analysis and
 **Furniture is losing money:** Furniture is struggling badly, making a tiny profit margin of just 1.4%.
 
 **Best states for business:** California and New York make more profit for the store than any other states.
- 
+
+
+ # dashboard
 
 <img width="1337" height="747" alt="Superstore_Sales_Analysis" src="https://github.com/user-attachments/assets/8d7fb82e-1798-4a73-a6ff-fc9f3b24c093" />
 
 <img width="1337" height="751" alt="Superstore_Sales_Profit" src="https://github.com/user-attachments/assets/7ce073c2-662e-4bfe-a067-82e51093af95" /> 
 
 <img width="1336" height="750" alt="Customer_Demographics" src="https://github.com/user-attachments/assets/a9db77c0-e0b5-433b-84e5-a7c514b823ff" />
-
-
-
-
 
 
